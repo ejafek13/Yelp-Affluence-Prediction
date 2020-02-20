@@ -8,13 +8,14 @@
 ---
 
 ### Table of contents
-- <u>[Executive Summary](#header)</u>
-- <u>[Findings](#header)</u>
+- <u>[Problem Statement](#Problem-Statement-and-Key-Objective)</u>
+- <u>[Executive Summary](#Executive-Summary)</u>
+- <u>[Findings](#Findings)</u>
 - <u>[Conclusion_and_Recommendations](#header)</u>
 
 ---
 
-### Problem Statement & Key Objective
+### Problem Statement and Key Objective
 <b> Problem Statement </b>
 - Traditional methods estimate geospatial wealth via income or unemployment rates
 
