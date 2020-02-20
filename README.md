@@ -11,7 +11,7 @@
 - <u>[Problem Statement](#Problem-Statement-and-Key-Objective)</u>
 - <u>[Executive Summary](#Executive-Summary)</u>
 - <u>[Findings](#Findings)</u>
-- <u>[Conclusion_and_Recommendations](#header)</u>
+- <u>[Conclusion and Recommendations](#header)</u>
 
 ---
 
