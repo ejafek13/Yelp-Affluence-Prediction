@@ -11,7 +11,7 @@
 - <u>[Problem Statement](#Problem-Statement-and-Key-Objective)</u>
 - <u>[Executive Summary](#Executive-Summary)</u>
 - <u>[Findings](#Findings)</u>
-- <u>[Conclusion and Recommendations](#header)</u>
+- <u>[Conclusion and Recommendations](#Conclusion_and_Recommendations)</u>
 
 ---
 
@@ -40,7 +40,7 @@
 ---
 
 
-### Conclusion & Recommendations
+### Conclusion and Recommendations
 - reen
 - rex
 - radon
