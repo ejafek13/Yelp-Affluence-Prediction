@@ -40,6 +40,18 @@
 - Model is able to accept a location as input and estimate the affluence category with 65.5% accuracy 
 - We do not recommend using Yelp price level data alone to predict affluence
 
+---
+
+### Data Dictionary
+| Column | Description |
+| --- | --- |
+| **Zip_code** | Zip Code. |
+| **Price** | The average of Yelp Prices per zip code. |
+| **Ratings** | The average of how popular the restaurant is overall. |
+| **One_Star** | Total amount of 1 star restaurants per zip code. |
+| **High Price** | Total amount of 3 and 4 star restaurants.|
+| **Four_Star** | Total amount of 4 star restaurants per zip code. |
+| **Price_Weight_Contrv2** | (Price * Ratings) / Population |
 
 ---
 
