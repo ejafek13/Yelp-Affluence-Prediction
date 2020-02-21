@@ -47,10 +47,22 @@
 | --- | --- |
 | **Zip_code** | Zip Code. |
 | **Price** | The average of Yelp Prices per zip code. |
+| **Mean_commute_time** | Average time for commute. |
+| **median_home_value** | Median price value for housing per zip code. |
+| **percents_bachelors_or_higher** | Percentage of people with a bachelors degree or higher per zip code. |
+| **percents_highschools_or_higher** | Percentage of people with a high school degree or higher per zip code. |
+| **percents_below_proverty** | Percentage of people who are in proverty. |
+| **percent_no_health_insurance** | Percentage of people with no health insurance. |
 | **Ratings** | The average of how popular the restaurant is overall. |
+| **Review_count** | The average number of review counts for the number of restaurants per zip code. |
+| **Unemployment_rate** | Percentage of people who are unemployed per zip code. |
+| **median_household_income** | Median household income per zipcode. |
+| **population** | Number of people for the particular area of region. |
+| **density** | Number of people per sq ft per zip code. |
 | **One_Star** | Total amount of 1 star restaurants per zip code. |
 | **High Price** | Total amount of 3 and 4 star restaurants.|
 | **Four_Star** | Total amount of 4 star restaurants per zip code. |
+| **Price_Weight_Contr** | (Price * Ratings * Rating_count) / Population |
 | **Price_Weight_Contrv2** | (Price * Ratings) / Population |
 
 ---
