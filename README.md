@@ -34,10 +34,12 @@
 
 ### Executive Summary
 - Yelp Dollar sign ($) data alone is not a strong predictor of geospatial affluence
-      - Correlation of Yelp Dollar Sign to Median Income is 0.11
-- Challenges observed: limited venue/business/service representation in low affluence or low population areas, non-residents providing Yelp reviews
-- However by augmenting Yelp Dollar Sign data with median home value with price ratings, population, and classifying cheap and expensive restaurants, the train/test scores improved
-- Ultimately we were able to achieve our key objective of accepting a location as input and estimating with 65.5% accuracy the location’s affluence
+- Correlation of Yelp Dollar Sign to Median Income is 0.11
+- Challenges observed: limited venue/business/service representation in low affluence or low population areas, non-residents     providing yelp reviews
+- Augmenting Yelp Dollar Sign data with feature engineering improved scores
+- Model is able to accept a location as input and estimate the affluence category with 65.5% accuracy 
+- We do not recommend using Yelp price level data alone to predict affluence
+
 
 ---
 
