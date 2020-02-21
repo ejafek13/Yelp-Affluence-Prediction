@@ -16,6 +16,10 @@
 ---
 
 ### Problem Statement and Key Objective
+
+<b> Context </b>
+- Yelp data is publicly available, descriptive of businesses by area and location and is regularly updated. Specifically, Yelp generates ($, $$, $$$, $$$$) to indicate relative business costs. Can this data be used to estimate neighborhood affluence? Is it a good predictor?
+
 <b> Problem Statement </b>
 - Traditional methods estimate geospatial wealth via income or unemployment rates
 
