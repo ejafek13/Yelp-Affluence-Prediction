@@ -64,6 +64,9 @@
 | **Four_Star** | Total amount of 4 star restaurants per zip code. |
 | **Price_Weight_Contr** | (Price * Ratings * Rating_count) / Population |
 | **Price_Weight_Contrv2** | (Price * Ratings) / Population |
+| **inc_cat2** | Median income divided into 4 bins based on quarties. |
+| **inc_cat3** | Median income divided into 2 categories split on the mean. |
+
 
 ---
 
